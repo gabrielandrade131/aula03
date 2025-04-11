@@ -1,3 +1,5 @@
+# Calcula desconto
+
 valor_antes = 83
 percentual = float(input('Qual o percentual do desconto? '))/100
 desconto = 83 * percentual
